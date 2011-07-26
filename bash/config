@@ -1,0 +1,4 @@
+# Melissa Voegeli, codermelissa@gmail.com
+# config -- shell specific options and information to construct the prompt
+
+PS1='♡♥♡[\[\033[1;34m\]\u\[\033[0m\]@\h \w$(__git_ps1 "(%s)"])]♡♥♡ '
